@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "YoBook",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "YoBook",
+    "description": "The description of the application"
+  },
+  "appPayload": {
+      "message": "Yo",
+      "description": "The output of the application"
+  }
+
+}
