@@ -2,7 +2,7 @@
 var yo = chrome.i18n.getMessage("appPayload")
 
 function updateContent() {
-    $('.userContent').html('Y' + yo);
+    $('.userContent').html(yo);
 }
 
 
